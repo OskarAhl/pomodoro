@@ -1,0 +1,35 @@
+h1 {
+	text-align: center;
+}
+
+span, p {
+	font-size: 20px;
+}
+
+#break {
+/*	border: 1px solid black;
+*/	width: 10%;
+	display: inline-block;
+}
+
+#session {
+/*	border: 1px solid black;
+*/	width: 10%;
+	display: inline-block;
+}
+
+button:focus {
+	outline:0;
+}
+
+.pomodoroclock {
+	margin:50px;
+	text-align: center;
+	align-content: center;
+}
+
+#countdownExample {
+	margin: 20px;
+}
+
+
